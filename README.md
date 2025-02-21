@@ -30,8 +30,14 @@ Si lo hemos seguido todo de manera correcta los cambios de seberian de poner ya 
 
 ## Tabla de comandos en Git
 
-
-
+| Comando                  | Descripcion                                                                                           |
+| :----------------------- | :---------------------------------------------------------------------------------------------------- |
+| git init                 | Inicia Git dentro de un repositorio                                                                   |
+| git add "fichero"        | Traquea los archivos desconocidos en el repositorio                                                   |
+| git commit -am "mensaje" | Envia los cambios y nuevos archivos traqueados al repositorio local final, listos para subir a remoto |
+| git push                 | Sube los cambios a la nube                                                                            |
+| git pull                 | Baja todos los cambios de la nube                                                                     |
+| git clone "url"          | Clona un reposotirio                                                                                  |
 
 
 
